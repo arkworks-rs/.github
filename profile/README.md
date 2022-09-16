@@ -10,8 +10,11 @@ Below are some resources for getting started working with `arkworks` crates:
 * [Tutorial for R1CS programming](https://github.com/arkworks-rs/r1cs-tutorial/) using the `ark-relations`, `ark-r1cs-std`, and `ark-crypto-primitives` crates.
 * [Quick introduction to programming with finite fields, elliptic curves, and pairings](https://github.com/Pratyush/algebra-intro) in `arkworks`.
 
-## Repo index
+## Getting Involved
 
+We have a [Discord community](https://discord.gg/D9GjcxPt4R) where folks can ask questions and learn about zkSNARK programming. We also have a [Twitter](https://www.twitter.com/arkworks_rs) where we (infrequently) post updates.
+
+## Repo index
 
 ### Working with SNARKs
 
