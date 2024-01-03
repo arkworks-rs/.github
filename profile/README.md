@@ -8,7 +8,10 @@ Below are some resources for getting started working with `arkworks` crates:
 
 * [Talk at Real World Crypto](https://youtu.be/Bz2KN_h3VKM?t=90) providing an overview of the `arkworks` ecosystem.
 * [Tutorial for R1CS programming](https://github.com/arkworks-rs/r1cs-tutorial/) using the `ark-relations`, `ark-r1cs-std`, and `ark-crypto-primitives` crates.
-* Quick introduction consists of following crates README: [finite fields](https://github.com/arkworks-rs/algebra/blob/master/ff/README.md), [elliptic curves and pairings](https://github.com/arkworks-rs/algebra/blob/master/ec/README.md), and [serialization](https://github.com/arkworks-rs/algebra/blob/master/serialize/README.md).
+* Quick introduction to using `arkworks`' algebra infrastructure:
+    * [finite fields](https://github.com/arkworks-rs/algebra/blob/master/ff/README.md), 
+    * [elliptic curves and pairings](https://github.com/arkworks-rs/algebra/blob/master/ec/README.md), and 
+    * [serialization](https://github.com/arkworks-rs/algebra/blob/master/serialize/README.md).
 
 ## Getting Involved
 
